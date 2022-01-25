@@ -1,0 +1,135 @@
+.main {
+    width: 1440px;
+    height: 620px;
+    margin-top: 50px;
+    padding: 5px;
+    background-color: whitesmoke;
+}
+
+.container-1 {
+    display: flex;
+    flex-direction: row;
+    background-color: whitesmoke;
+}
+
+.container-T-left {
+    display: flex;
+    flex-direction: row;
+    margin-left: 100px;
+}
+
+.links {
+    margin-left: 20px;
+    word-spacing: 10px;
+}
+
+.container-T-right {
+    display: flex;
+    flex-direction: row;
+    margin-left: 200px;
+}
+
+.cart {
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.avatar {
+    display: flex;
+}
+
+.container-2 {
+    display: flex;
+    flex-direction: row;
+    border-radius: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.image {
+    margin-top: 50px;
+    margin-left: 200px;
+}
+
+.img {
+    border-radius: 10px;
+}
+
+.all-1 {
+    margin-left: 200px;
+    margin-top: 20px;
+}
+
+.emoji {
+    border-radius: 5px;
+}
+
+.text {
+    margin-top: 70px;
+    margin-left: 100px;
+}
+
+span {
+    color: hsl(26, 100%, 55%);
+}
+
+.tag {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
+
+.tag h3 {
+    color: hsl(26, 100%, 55%);
+    margin-left: 20px;
+}
+
+.overview {
+    display: flex;
+    flex-direction: row;
+}
+
+.icons {
+    display: flex;
+    flex-direction: row;
+    background-color: hsl(220, 14%, 75%);
+    width: 130px;
+    border-radius: 5px;
+}
+
+.minus {
+    margin: 10px;
+}
+
+.zero {
+    margin-top: 0px;
+    margin-left: 20px;
+}
+
+.plus {
+    margin-top: 15px;
+    margin-left: 40px;
+}
+
+.button {
+    margin-left: 80px;
+    width: 300px;
+}
+
+.btn {
+    padding-top: 5px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: hsl(26, 100%, 55%);
+    border-radius: 10px;
+    border: none;
+}
+
+.btn-1 {
+    color: white;
+    padding-left: 20px;
+}
